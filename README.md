@@ -5,8 +5,7 @@ Frontend приложение с вопросами и результатами.
 ## Используемые технологии:
 HTML
 CSS
-Reset
-Jacascript
+Javascript
 
 # EN
 # quizTime
@@ -15,5 +14,4 @@ Frontend app with questions and results. Implemented animation of smooth appeara
 ## Technologies used:
 HTML
 CSS
-Reset
-Jacascript
+Javascript
